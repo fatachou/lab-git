@@ -1,5 +1,5 @@
 Entrez vos informations ci-dessous:
 
-* first_name:
-* last_name:
-* student_id:
+* first_name: Corentin  
+* last_name: Sallé de chou
+* student_id: 04081998
